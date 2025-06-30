@@ -1,9 +1,5 @@
-import React from 'react';
 import Navbar from "./components/Navbar";
-<<<<<<< HEAD
-=======
 import React from "react";
->>>>>>> cb734c8ff5837d86a4552b5686e9993870fa7fc8
 import HomePage from "./pages/HomePage";
 import SignUpPage from "./pages/SignUpPage";
 import LoginPage from "./pages/LoginPage";

@@ -24,11 +24,7 @@
     "@eslint/js": "^9.25.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
-<<<<<<< HEAD
-    "@vitejs/plugin-react": "^4.6.0",
-=======
     "@vitejs/plugin-react": "^4.4.1",
->>>>>>> cb734c8ff5837d86a4552b5686e9993870fa7fc8
     "autoprefixer": "^10.4.19",
     "daisyui": "^4.12.24",
     "eslint": "^9.25.0",

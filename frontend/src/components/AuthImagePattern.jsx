@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-import React from 'react';
-=======
 import React from 'react'
 
->>>>>>> cb734c8ff5837d86a4552b5686e9993870fa7fc8
 const AuthImagePattern = ({ title, subtitle }) => {
     return (
         <div className = "hidden lg:flex items-center justify-center bg-base-200 p-12">
